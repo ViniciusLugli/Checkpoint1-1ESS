@@ -1,8 +1,8 @@
-let a = 10;
-let b = 5;
+let a = 10;//ok
+let b = 5;//ok
 
 //Operações
-console.log("Soma: ", a + b);
-console.log("Subtração: ", a - b);
-console.log("Multiplicação: ", a * b);
-console.log("Divisão: ", a / b);
+console.log("Soma: ", a + b);//ok
+console.log("Subtração: ", a - b);//ok
+console.log("Multiplicação: ", a * b);//ok
+console.log("Divisão: ", a / b);//ok

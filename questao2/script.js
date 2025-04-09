@@ -1,2 +1,2 @@
-console.log('Olá Professor, tudo bem?')
-alert('Bem-vindo ao Checkpoint!')
+console.log('Olá Professor, tudo bem?')//ok
+alert('Bem-vindo ao Checkpoint!')//ok
